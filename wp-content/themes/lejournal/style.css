@@ -1,0 +1,15 @@
+/*
+Theme Name: journal-le-pays
+Theme URI: #
+Author: Corentin
+Author URI: #
+Description: Thème Wordpress sécialement créé pour le journal "Le Pays"
+Version: 1.0
+*/
+
+body {
+  background: #ffffff;
+  font-family: "Source Sans Pro";
+  color: #4b5157;
+  margin: 0 auto;
+}
